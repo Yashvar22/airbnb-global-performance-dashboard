@@ -1,5 +1,4 @@
-# airbnb-global-performance-dashboard
+# AirBnb_Global_Performance_Dashboard
+An end-to-end Power BI dashboard project explained step by step on my YouTube channel (Mansi G.). This project focuses on real analytical thinking like data modeling, DAX, Pareto analysis, seasonality, pricing, and trust insights. Teaching not just how to build dashboards, but why each decision matters.
 
-An end-to-end **Data Analytics & Business Intelligence** project that analyzes Airbnb listing data across **50+ global cities** to uncover pricing trends, occupancy patterns, host performance, and revenue insights. The project includes a full **ETL pipeline**, **Exploratory Data Analysis (EDA)**, **KPI computation**, and an **interactive multi-page dashboard** built using Python and BI tools.
-
-> **Goal:** Enable data-driven decision-making for Airbnb hosts, market analysts, and operations teams through a comprehensive global performance dashboard.
+DOWNLOAD DATASET FROM HERE - https://mavenanalytics.io/data-playground/airbnb-listings-reviews
